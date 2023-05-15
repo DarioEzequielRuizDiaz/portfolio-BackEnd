@@ -1,0 +1,13 @@
+package com.portfolio.fkrenn;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class DarioApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
