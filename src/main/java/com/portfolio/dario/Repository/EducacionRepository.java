@@ -1,6 +1,6 @@
-package com.portfolio.fkrenn.Repository;
+package com.portfolio.dario.Repository;
 
-import com.portfolio.fkrenn.Entity.Educacion;
+import com.portfolio.dario.Entity.Educacion;
 import java.util.Optional;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

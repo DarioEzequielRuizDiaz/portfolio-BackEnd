@@ -1,7 +1,7 @@
 
-package com.portfolio.fkrenn.Security.Repository;
+package com.portfolio.dario.Security.Repository;
 
-import com.portfolio.fkrenn.Security.Entity.Usuario;
+import com.portfolio.dario.Security.Entity.Usuario;
 import java.util.Optional;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

@@ -1,5 +1,5 @@
 
-package com.portfolio.fkrenn.Entity;
+package com.portfolio.dario.Entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

@@ -1,9 +1,9 @@
-package com.portfolio.fkrenn.Controller;
+package com.portfolio.dario.Controller;
 
-import com.portfolio.fkrenn.Dto.dtoEducacion;
-import com.portfolio.fkrenn.Entity.Educacion;
-import com.portfolio.fkrenn.Security.Controller.Mensaje;
-import com.portfolio.fkrenn.Service.EducacionService;
+import com.portfolio.dario.Dto.dtoEducacion;
+import com.portfolio.dario.Entity.Educacion;
+import com.portfolio.dario.Security.Controller.Mensaje;
+import com.portfolio.dario.Service.EducacionService;
 import java.util.List;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;

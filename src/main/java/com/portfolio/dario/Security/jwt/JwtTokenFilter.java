@@ -1,6 +1,6 @@
-package com.portfolio.fkrenn.Security.jwt;
+package com.portfolio.dario.Security.jwt;
 
-import com.portfolio.fkrenn.Security.Service.UserDetailsImpl;
+import com.portfolio.dario.Security.Service.UserDetailsImpl;
 import java.io.IOException;
 import javax.servlet.FilterChain;
 import javax.servlet.ServletException;

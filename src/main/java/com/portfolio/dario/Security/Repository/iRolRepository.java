@@ -1,8 +1,8 @@
 
-package com.portfolio.fkrenn.Security.Repository;
+package com.portfolio.dario.Security.Repository;
 
-import com.portfolio.fkrenn.Security.Entity.Rol;
-import com.portfolio.fkrenn.Security.Enums.RolNombre;
+import com.portfolio.dario.Security.Entity.Rol;
+import com.portfolio.dario.Security.Enums.RolNombre;
 import java.util.Optional;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

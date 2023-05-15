@@ -1,4 +1,4 @@
-package com.portfolio.fkrenn.Security.Entity;
+package com.portfolio.dario.Security.Entity;
 
 import java.util.HashSet;
 import java.util.Set;

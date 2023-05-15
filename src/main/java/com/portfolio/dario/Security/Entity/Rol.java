@@ -1,6 +1,6 @@
-package com.portfolio.fkrenn.Security.Entity;
+package com.portfolio.dario.Security.Entity;
 
-import com.portfolio.fkrenn.Security.Enums.RolNombre;
+import com.portfolio.dario.Security.Enums.RolNombre;
 import javax.persistence.Entity;
 import javax.persistence.EnumType;
 import javax.persistence.Enumerated;

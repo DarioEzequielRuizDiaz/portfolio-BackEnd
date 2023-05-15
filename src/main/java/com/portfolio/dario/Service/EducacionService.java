@@ -1,7 +1,7 @@
-package com.portfolio.fkrenn.Service;
+package com.portfolio.dario.Service;
 
-import com.portfolio.fkrenn.Entity.Educacion;
-import com.portfolio.fkrenn.Repository.EducacionRepository;
+import com.portfolio.dario.Entity.Educacion;
+import com.portfolio.dario.Repository.EducacionRepository;
 import java.util.List;
 import java.util.Optional;
 import javax.transaction.Transactional;

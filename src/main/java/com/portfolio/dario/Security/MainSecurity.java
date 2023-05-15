@@ -1,8 +1,8 @@
-package com.portfolio.fkrenn.Security;
+package com.portfolio.dario.Security;
 
-import com.portfolio.fkrenn.Security.Service.UserDetailsImpl;
-import com.portfolio.fkrenn.Security.jwt.JwtEntryPoint;
-import com.portfolio.fkrenn.Security.jwt.JwtTokenFilter;
+import com.portfolio.dario.Security.Service.UserDetailsImpl;
+import com.portfolio.dario.Security.jwt.JwtEntryPoint;
+import com.portfolio.dario.Security.jwt.JwtTokenFilter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

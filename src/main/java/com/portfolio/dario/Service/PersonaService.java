@@ -1,7 +1,7 @@
-package com.portfolio.fkrenn.Service;
+package com.portfolio.dario.Service;
 
-import com.portfolio.fkrenn.Entity.Persona;
-import com.portfolio.fkrenn.Repository.PersonaRepository;
+import com.portfolio.dario.Entity.Persona;
+import com.portfolio.dario.Repository.PersonaRepository;
 import java.util.List;
 import java.util.Optional;
 import javax.transaction.Transactional;

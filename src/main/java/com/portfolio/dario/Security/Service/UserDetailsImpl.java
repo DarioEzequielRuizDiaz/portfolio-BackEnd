@@ -1,7 +1,7 @@
-package com.portfolio.fkrenn.Security.Service;
+package com.portfolio.dario.Security.Service;
 
-import com.portfolio.fkrenn.Security.Entity.Usuario;
-import com.portfolio.fkrenn.Security.Entity.UsuarioPrincipal;
+import com.portfolio.dario.Security.Entity.Usuario;
+import com.portfolio.dario.Security.Entity.UsuarioPrincipal;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

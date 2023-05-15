@@ -1,4 +1,4 @@
-package com.portfolio.fkrenn.Security.Dto;
+package com.portfolio.dario.Security.Dto;
 
 import java.util.Collection;
 import org.springframework.security.core.GrantedAuthority;

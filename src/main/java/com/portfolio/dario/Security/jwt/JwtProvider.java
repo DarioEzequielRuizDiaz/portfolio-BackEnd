@@ -1,6 +1,6 @@
-package com.portfolio.fkrenn.Security.jwt;
+package com.portfolio.dario.Security.jwt;
 
-import com.portfolio.fkrenn.Security.Entity.UsuarioPrincipal;
+import com.portfolio.dario.Security.Entity.UsuarioPrincipal;
 import io.jsonwebtoken.ExpiredJwtException;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.MalformedJwtException;
