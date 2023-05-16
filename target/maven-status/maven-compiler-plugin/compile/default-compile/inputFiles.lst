@@ -33,6 +33,7 @@ E:\Documents\Proyects\Argentina programa\portfolio-backend\src\main\java\com\por
 E:\Documents\Proyects\Argentina programa\portfolio-backend\src\main\java\com\portfolio\dario\Security\Service\RolService.java
 E:\Documents\Proyects\Argentina programa\portfolio-backend\src\main\java\com\portfolio\dario\Dto\dtoPersona.java
 E:\Documents\Proyects\Argentina programa\portfolio-backend\src\main\java\com\portfolio\dario\Service\SkillsService.java
+E:\Documents\Proyects\Argentina programa\portfolio-backend\src\main\java\com\portfolio\dario\config\CorsConfig.java
 E:\Documents\Proyects\Argentina programa\portfolio-backend\src\main\java\com\portfolio\dario\Entity\Experiencia.java
 E:\Documents\Proyects\Argentina programa\portfolio-backend\src\main\java\com\portfolio\dario\Repository\SkillsRepository.java
 E:\Documents\Proyects\Argentina programa\portfolio-backend\src\main\java\com\portfolio\dario\Security\Service\UsuarioService.java

@@ -35,6 +35,7 @@ com\portfolio\dario\Service\EducacionService.class
 com\portfolio\dario\Security\Enums\RolNombre.class
 com\portfolio\dario\Service\SkillsService.class
 com\portfolio\dario\Security\Service\UsuarioService.class
+CorsConfig.class
 com\portfolio\dario\Dto\dtoEducacion.class
 com\portfolio\dario\Entity\Educacion.class
 com\portfolio\dario\Security\Dto\NuevoUsuario.class
