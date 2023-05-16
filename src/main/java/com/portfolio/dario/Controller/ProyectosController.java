@@ -21,7 +21,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("proyectos")
-@CrossOrigin(origins = "https://dario-portfolio-frontend.web.app/")
+@CrossOrigin(origins = "https://dario-portfolio-frontend.web.app")
 public class ProyectosController {
     @Autowired
     ProyectosService sProyectos;
